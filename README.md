@@ -7,10 +7,7 @@
   - _First they  ignore you, then they laugh at you, then they fight you, then you win_ -- M. Ghandhi
   - _Great works are performed not by strength but by perserverance_ -- Samuel Johnson
   - _Leadership is not about being in charge, but taking care of those in your charge_ -- Simon Sinek   
-<!-- - My forecast in software trends(04 Oct 2021):
-  - Progressive Web App + Web Assembly will become the next thing in coming 5 years.
-  - Technologies/techniques around domain-driven design, e.g. microservices, microfront-end will become mainstream.
-  - Technologies that will decline in popularity: Flutter, Angular -->
+
 
 <br />
 
